@@ -1,0 +1,28 @@
+name: Tom Ingram
+favicon: null
+layout_spectrum: 0.8951192854437977
+typography_spectrum: 0.8947295441757888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9460831976030022
+  lightness: 0.9863130189478397
+  saturation: 0.48125210334546864
+  rhythmicContrast: 0.15383593528531492
+purpose: []
